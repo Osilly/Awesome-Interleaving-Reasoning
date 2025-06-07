@@ -39,7 +39,7 @@
 
 🔥🔥🔥 **ICCV 2025 Workshop on Multi-Modal Reasoning for Agentic Intelligence (MMRAgi-2025)**  
 <p align="center">
-    <img src="./images/MMRAgi.png" width="50%" height="50%">
+    <img src="./images/MMRAgi.png" width="30%" height="30%">
 </p>
 
 

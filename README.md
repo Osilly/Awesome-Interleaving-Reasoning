@@ -8,28 +8,27 @@
 
 ### Originators
 
-<div align="left">
-  <div style="display: inline-block; text-align: center; margin: 15px;">
-    <a href="https://scholar.google.com/citations?user=6Ys6HgsAAAAJ&hl=en">
-      <img src="./images/wenxuan.png" width="100" alt="Wenxuan Huang" style="border-radius: 50%;">
-    </a>
-    <br>
-    <a href="https://scholar.google.com/citations?user=6Ys6HgsAAAAJ&hl=en" style="text-decoration: none; color: inherit;">
-    <b style="font-size: 13px;">Wenxuan Huang</b><br>
-    <span style="font-size: 11px;">ECNU&CUHK</span>
+<p align="left">
+  &nbsp;&nbsp;
+  <img src="./images/wenxuan_new.png" width="100" style="border-radius: 50%;">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./images/zhenfei_new.png" width="100" style="border-radius: 50%;">
+  <br>
+  <a href="https://scholar.google.com/citations?user=6Ys6HgsAAAAJ&hl=en">
+    <b>Wenxuan Huang</b>
   </a>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 15px;">
-    <a href="https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl=en">
-      <img src="./images/zhenfei.png" width="100" alt="Zhenfei Yin" style="border-radius: 50%;">
-    </a>
-    <br>
-    <a href="https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl=en" style="text-decoration: none; color: inherit;">
-    <b style="font-size: 13px;">Zhenfei Yin</b><br>
-    <span style="font-size: 11px;">USYD&Oxford</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl=en">
+    <b>Zhenfei Yin</b>
   </a>
-  </div>
-</div>
+  <br>
+  &nbsp;&nbsp;
+  ECNU&CUHK
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  USYD&Oxford
+</p>
+
+
 ### Members
 
 
@@ -40,11 +39,11 @@
 
 🔥🔥🔥 **ICCV 2025 Workshop on Multi-Modal Reasoning for Agentic Intelligence (MMRAgi-2025)**  
 <p align="center">
-    <img src="./images/MMRAgi.png" width="80%" height="80%">
+    <img src="./images/MMRAgi.png" width="50%" height="50%">
 </p>
 
 
-<font size=7><div align='center' >We organised **ICCV 2025 Workshop MMRAgI**! Submission DDL: Proceeding Track：24 June 2025, 23:59 AoE, Non-Proceeding Track：24 July 2025, 23:59 AoE  ✨ </div></font>
+<font size=7><div align='center' >We organised **[ICCV 2025 Workshop MMRAgi](https://openreview.net/group?id=thecvf.com/ICCV/2025/Workshop/MMR)**! <br> Submission DDL: Proceeding Track：24 June 2025, 23:59 AoE, Non-Proceeding Track：24 July 2025, 23:59 AoE  ✨ </div></font>
 
 
 ---

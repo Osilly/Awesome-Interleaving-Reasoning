@@ -57,6 +57,16 @@
 
 <font size=7><div align='center' > This is the first paper to explore how to effectively use RL for MLLMs and introduce Vision-R1, a reasoning MLLM that leverages cold-start initialization and RL training to incentivize reasoning capability.  </div></font>
 
+---
+
+🔥🔥🔥 **DeepEyes: Incentivizing “Thinking with Images” via Reinforcement Learning**  
+<p align="center">
+    <img src="./images/deepeyes.png" width="80%" height="80%">
+</p>
+
+<font size=7><div align='center' > [[📖 arXiv Paper](https://arxiv.org/abs/2505.14362)] [[🌟 GitHub](https://github.com/Visual-Agent/DeepEyes)![Star](https://img.shields.io/github/stars/Visual-Agent/DeepEyes.svg?style=social&label=Star)] [[🤗 Dataset](https://huggingface.co/datasets/ChenShawn/DeepEyes-Datasets-47k)] [[🤗 DeepEyes-7B](https://huggingface.co/ChenShawn/DeepEyes-7B)]</div></font>
+
+<font size=7><div align='center' > The first opensource interleaving reasoning MLLM with "Thinking with Images". They don’t just see an image, they can integrate visual information directly into the reasoning chain.  </div></font>
 
 ---
 

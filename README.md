@@ -1,8 +1,20 @@
 <div align="center">
+    <img alt="logo" src="./images/logo.png" style="height: 200px;" />
+</div>
+
+<div align="center">
+
+<div align="center">
 
 # Awesome Interleaving Reasoning
 
 </div>
+
+
+<p align="center">
+    <img src="./images/overview.png" width="95%" height="95%">
+</p>
+
 
 ## Our Group
 

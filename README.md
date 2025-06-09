@@ -1,5 +1,5 @@
 <div align="center">
-    <img alt="logo" src="./images/logo.png" style="height: 200px;" />
+    <img alt="logo" src="./images/logo.webp" style="height: 200px;" />
 </div>
 
 <div align="center">

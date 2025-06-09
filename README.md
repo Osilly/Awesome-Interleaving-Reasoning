@@ -4,8 +4,6 @@
 
 <div align="center">
 
-<div align="center">
-
 # Awesome Interleaving Reasoning
 
 </div>
@@ -55,7 +53,7 @@
 </p>
 
 
-<font size=7><div align='center' >We organised **[ICCV 2025 Workshop MMRAgi](https://agent-intelligence.github.io/agent-intelligence)**! <br> Submission DDL: Proceeding Track：24 June 2025, 23:59 AoE, Non-Proceeding Track：24 July 2025, 23:59 AoE.  </div></font>
+<font size=7><div align='center' >We organised **[ICCV 2025 Workshop MMRAgi](https://agent-intelligence.github.io/agent-intelligence)**! <br> Submission DDL: Proceeding Track: 24 June 2025, 23:59 AoE, Non-Proceeding Track: 24 July 2025, 23:59 AoE.  </div></font>
 
 
 ---

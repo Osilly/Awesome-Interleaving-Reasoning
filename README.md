@@ -14,11 +14,23 @@
 </p>
 
 
-## Content
+With the release of [OpenAI O1] and [Deepseek-R1], reasoning models have yielded remarkably promising results and garnered significant attention from the research community. This development signals that reasoning models represent a critical advancement toward Artificial General Intelligence (AGI). The standard reasoning paradigm can be formally defined as:
+
+- **Standard Reasoning**: The model conducts a comprehensive intermediate reasoning phase prior to generating the final response. This intermediate reasoning typically manifests as unstructured textual content, with the entire inference process constituting a single atomic operation.
+
+Recently, the introduction of [O3](https://openai.com/index/introducing-o3-and-o4-mini/), [Deep research](https://openai.com/index/introducing-deep-research/), [Zochi](https://github.com/IntologyAI/Zochi/blob/main/Zochi_Technical_Report.pdf), and [BAGEL](https://arxiv.org/abs/2505.14683) has established an alternative reasoning formulation, which we designate as Interleaving Reasoning. In contrast to standard reasoning, Interleaving Reasoning is characterized by multi-turn interactions and exhibits sophisticated reasoning dynamics. This reasoning modality has empirically demonstrated superior accuracy in addressing complex problems. Consequently, we posit that Interleaving Reasoning potentially constitutes the **Next-Generation Reasoning Systems for AGI**. We propose a taxonomy of Interleaving Reasoning that encompasses the following categories:
+
+- **Multimodal Interleaving Reasoning**: The model's inference process operates on diverse information modalities (e.g., textual, visual, auditory, video). This involves an intricately interleaved execution of modality-specific information processing and cross-modal reasoning. Examples: [O3](https://openai.com/index/introducing-o3-and-o4-mini/), [DeepEyes](https://arxiv.org/abs/2505.14362).
+- **Multi-Round Acting Interleaving Reasoning**: The system achieves task completion through iterative interactions (actions) with the environment. Each action is either predicated upon or performed in conjunction with a reasoning-driven inference step, establishing an interleaved execution of action and inference processes. Examples: [Deep research](https://openai.com/index/introducing-deep-research/), [Search-R1](https://arxiv.org/abs/2503.09516), [ReTool](https://arxiv.org/abs/2504.11536), [UI-TARS](https://arxiv.org/abs/2501.12326), [ReAct](https://arxiv.org/abs/2210.03629).
+- **Multi-Agent Interleaving Reasoning**: In a multi-agent system, multiple agents, such as LLMs and MLLMs, engage in collaborative or competitive dynamics via a paradigm of interleaved reasoning. This implies that agents either alternate in contributing discrete reasoning steps, share intermediate conclusions to establish a shared cognitive state, and subsequently build upon this foundation, or their respective inferential processes exhibit mutual influence. Examples: [Society of Minds](https://arxiv.org/abs/2305.14325), [Zochi](https://github.com/IntologyAI/Zochi/blob/main/Zochi_Technical_Report.pdf), [MetaGPT](https://arxiv.org/abs/2309.07870).
+- **Unified Understanding and Generation Interleaving Reasoning**: The model's reasoning capabilities are not confined to producing solely unimodal outputs. Instead, it strategically generates multimodal content (e.g., textual and visual elements) as an integral intermediate step within its intrinsic processes of comprehension and problem-solving. Example: [GoT](https://arxiv.org/abs/2503.10639), [T2I-R1](https://arxiv.org/abs/2505.00703), [BAGEL](https://arxiv.org/abs/2505.14683).
+
+We aim to provide the community with a comprehensive and timely synthesis of this fascinating and promising field, as well as some insights into it. This repository provides valuable reference for researchers in the field of **Interleaving Reasoning**, please start your exploration!
 
 ---
 
 <font size=5><center><b> Table of Contents </b> </center></font>
+
 - [Our Group](#our-group)
   - [Multimodal Instruction Tuning](#originators)
   - [Members](#members)
@@ -125,7 +137,7 @@
 >
 > * [**RL**] [2505] [DeepEyes] [DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](https://arxiv.org/abs/2505.14362) [[🌐Project](https://visual-agent.github.io/)] [[🤗Models](https://huggingface.co/ChenShawn/DeepEyes-7B)] [[🤗Datasets](https://huggingface.co/datasets/ChenShawn/DeepEyes-Datasets-47k)] [[💻Code](https://github.com/Visual-Agent/DeepEyes)]
 >
-> *You can select your class in [**Pretrain**, **SFT**, **RL**, **Prompt**] and so on. Furthermore, you can combine them, for example,  **SFT+RL**.*
+> *You can select your categories in [**Pretrain**, **SFT**, **RL**, **Prompt**] and so on. Furthermore, you can combine them, for example,  **SFT+RL**.*
 
 ### Multimodal Interleaving Reasoning
 
@@ -134,6 +146,8 @@
 * [**SFT+RL**] [2505] [OpenThinkIMG] [OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/abs/2505.08617) [[💻Code](https://github.com/Visual-Agent/DeepEyes)]
 
 * [**RL**] [2505] [DeepEyes] [DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](https://arxiv.org/abs/2505.14362) [[🌐Project](https://visual-agent.github.io/)]  [[🤗Models](https://huggingface.co/ChenShawn/DeepEyes-7B)]  [[🤗Datasets](https://huggingface.co/datasets/ChenShawn/DeepEyes-Datasets-47k)] [[💻Code](https://github.com/Visual-Agent/DeepEyes)]
+
+* [2504] [OpenAI o3] [Introducing OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
 
 * [**SFT**] [2312] [V\*] [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135) [[🌐Project](https://vstar-seal.github.io)] [[💻Code](https://github.com/penghao-wu/vstar)]
 
@@ -198,8 +212,9 @@
 
 * [**Prompt**] [2409] [GroupDebate] [GroupDebate: Enhancing the Efficiency of Multi-Agent Debate Using Group Discussion](https://arxiv.org/abs/2409.14051)
 
-* [**Position paper**] [2311] [Should we be going MAD? A Look at Multi-Agent Debate Strategies for LLMs](https://arxiv.org/abs/2311.17371)
+* [**Position paper**] [2311] [Should we be going MAD? A Look at Multi-Agent Debate Strategies for LLMs](https://arxiv.org/abs/2311.17371) [[💻Code](https://github.com/instadeepai/DebateLLM)]
 
+* [**Prompt**] [2305] [Society of Minds] [improving factuality and reasoning in language models through multiagent debate](https://arxiv.org/abs/2305.14325) [[💻Code](https://github.com/composable-models/llm_multiagent_debate)]
 
 #### Coordination
 

@@ -58,7 +58,7 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
   - [Unified Understanding and Generation Interleaving Reasoning](#unified-understanding-and-generation-interleaving-reasoning)
   	- [Generation](#generation)
   	- [Understanding](#understanding) 	
-  - [Awesome Datasets](#awesome-datasets)
+- [Awesome Datasets](#awesome-datasets)
 
 
 ---

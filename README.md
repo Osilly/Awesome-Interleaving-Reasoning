@@ -14,7 +14,7 @@
 </p>
 
 
-With the release of [OpenAI O1] and [Deepseek-R1], reasoning models have yielded remarkably promising results and garnered significant attention from the research community. This development signals that reasoning models represent a critical advancement toward Artificial General Intelligence (AGI). The standard reasoning paradigm can be formally defined as:
+With the release of [OpenAI o1](https://openai.com/o1/) and [Deepseek-R1](https://arxiv.org/abs/2501.12948), reasoning models have yielded remarkably promising results and garnered significant attention from the research community. This development signals that reasoning models represent a critical advancement toward Artificial General Intelligence (AGI). The standard reasoning paradigm can be formally defined as:
 
 - **Standard Reasoning**: The model conducts a comprehensive intermediate reasoning phase prior to generating the final response. This intermediate reasoning typically manifests as unstructured textual content, with the entire inference process constituting a single atomic operation.
 

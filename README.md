@@ -25,7 +25,9 @@ Recently, the introduction of [O3](https://openai.com/index/introducing-o3-and-o
 - **Multi-Agent Interleaving Reasoning**: In a multi-agent system, multiple agents, such as LLMs and MLLMs, engage in collaborative or competitive dynamics via a paradigm of interleaved reasoning. This implies that agents either alternate in contributing discrete reasoning steps, share intermediate conclusions to establish a shared cognitive state, and subsequently build upon this foundation, or their respective inferential processes exhibit mutual influence. Examples: [Society of Minds](https://arxiv.org/abs/2305.14325), [Zochi](https://github.com/IntologyAI/Zochi/blob/main/Zochi_Technical_Report.pdf), [MetaGPT](https://arxiv.org/abs/2309.07870).
 - **Unified Understanding and Generation Interleaving Reasoning**: The model's reasoning capabilities are not confined to producing solely unimodal outputs. Instead, it strategically generates multimodal content (e.g., textual and visual elements) as an integral intermediate step within its intrinsic processes of comprehension and problem-solving. Example: [GoT](https://arxiv.org/abs/2503.10639), [T2I-R1](https://arxiv.org/abs/2505.00703), [BAGEL](https://arxiv.org/abs/2505.14683).
 
-We aim to provide the community with a comprehensive and timely synthesis of this fascinating and promising field, as well as some insights into it. This repository provides valuable reference for researchers in the field of **Interleaving Reasoning**, please start your exploration!
+We aim to provide the community with a comprehensive and timely synthesis of this fascinating and promising field, as well as some insights into it. This repository provides valuable reference for researchers in the field of Interleaving Reasoning, please start your exploration! 
+
+***This work is in progress!***
 
 ---
 

@@ -14,6 +14,35 @@
 </p>
 
 
+## Content
+
+---
+
+<font size=5><center><b> Table of Contents </b> </center></font>
+- [Our Group](#our-group)
+  - [Multimodal Instruction Tuning](#originators)
+  - [Members](#members)
+- [Our Activities](#our-activities)
+- [Standard Reasoning Examples](#standard-reasoning-examples)
+- [Awesome Interleaving Reasoning Papers](#awesome-interleaving-reasoning-papers)
+  - [Multimodal Interleaving Reasoning](#multimodal-interleaving-reasoning)
+  - [Multi-Round Acting Interleaving Reasoning](#multi-round-acting-interleaving-reasoning)
+  	- [Search](#search)
+  	- [Code](#code)
+  	- [UI](#ui)
+  	- [Complex acting](##complex-acting)
+  	- [Others](#others)
+  - [Multi-Agent Interleaving Reasoning](#multi-agent-interleaving-reasoning)
+  	- [Debate](#debate)
+  	- [Coordination](#coordination)
+  - [Unified Understanding and Generation Interleaving Reasoning](#unified-understanding-and-generation-interleaving-reasoning)
+  	- [Generation](#generation)
+  	- [Understanding](#understanding) 	
+  - [Awesome Datasets](#awesome-datasets)
+
+
+---
+
 ## Our Group
 
 ### Originators
@@ -73,6 +102,7 @@
 <p align="center">
     <img src="./images/deepeyes.png" width="80%" height="80%">
 </p>
+
 <font size=7><div align='center' > [[📖 arXiv Paper](https://arxiv.org/abs/2505.14362)] [[🌟 GitHub](https://github.com/Visual-Agent/DeepEyes)![Star](https://img.shields.io/github/stars/Visual-Agent/DeepEyes.svg?style=social&label=Star)] [[🤗 Dataset](https://huggingface.co/datasets/ChenShawn/DeepEyes-Datasets-47k)] [[🤗 DeepEyes-7B](https://huggingface.co/ChenShawn/DeepEyes-7B)]</div></font>
 
 <font size=7><div align='center' > The first opensource "o3-like" interleaving reasoning MLLM with "Thinking with Images". They don’t just see an image, they can integrate visual information directly into the reasoning chain.  </div></font>
@@ -122,7 +152,7 @@
 
 * [**RL**] [2503] [Search-R1] [Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning](https://arxiv.org/abs/2503.09516) [[💻Code](https://github.com/PeterGriffinJin/Search-R1)]
 
-* [Deep research] [2502] [Introducing deep research](https://openai.com/index/introducing-deep-research/)
+* [2502] [Deep research] [Introducing deep research](https://openai.com/index/introducing-deep-research/)
 
 * [**RL**] [2112] [WebGPT] [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) [[🤗Datasets](https://huggingface.co/datasets/openai/webgpt_comparisons)]
 

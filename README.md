@@ -40,7 +40,7 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 <font size=5><center><b> Table of Contents </b> </center></font>
 
 - [Our Group](#our-group)
-  - [Multimodal Instruction Tuning](#originators)
+  - [Originators](#originators)
   - [Members](#members)
 - [Our Activities](#our-activities)
 - [Standard Reasoning Examples](#standard-reasoning-examples)

@@ -145,7 +145,7 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 >
 > * [**RL**] [2505] [DeepEyes] [DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](https://arxiv.org/abs/2505.14362) [[🌐Project](https://visual-agent.github.io/)] [[🤗Models](https://huggingface.co/ChenShawn/DeepEyes-7B)] [[🤗Datasets](https://huggingface.co/datasets/ChenShawn/DeepEyes-Datasets-47k)] [[💻Code](https://github.com/Visual-Agent/DeepEyes)]
 >
-> *You can select your categories in [**Pretrain**, **SFT**, **RL**, **Prompt**] and so on. Furthermore, you can combine them, for example,  **SFT+RL**.*
+> *You can select your categories in [**Pretrain**, **SFT**, **RL**, **Prompt**, **Position paper**, **Survey paper**] and so on. Furthermore, you can combine them, for example,  **SFT+RL**.*
 
 ### Multimodal Interleaving Reasoning
 

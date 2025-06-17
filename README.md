@@ -151,32 +151,6 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 > Definition: The model's inference process operates on diverse information modalities (e.g., textual, visual, auditory, video). This involves an intricately interleaved execution of modality-specific information processing and cross-modal reasoning.
 
-* [2504] [OpenAI o3] [Introducing OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
-
-* [**RL**] [2505] [DeepEyes] [DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](https://arxiv.org/abs/2505.14362) [[🌐Project](https://visual-agent.github.io/)]  [[🤗Models](https://huggingface.co/ChenShawn/DeepEyes-7B)]  [[🤗Datasets](https://huggingface.co/datasets/ChenShawn/DeepEyes-Datasets-47k)] [[💻Code](https://github.com/Visual-Agent/DeepEyes)]
-
-* [**SFT**] [2312] [V\*] [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135) [[🌐Project](https://vstar-seal.github.io)] [[💻Code](https://github.com/penghao-wu/vstar)]
-
-* [**Prompt**] [2211] [VISPROG] [Visual Programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559) [[🌐Project](https://prior.allenai.org/projects/visprog)] [[💻Code](https://github.com/allenai/visprog)]
-
-* [**Prompt**] [2406] [Sketchpad] [Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](https://arxiv.org/abs/2406.09403) [[🌐Project](https://visualsketchpad.github.io)] [[💻Code](https://github.com/Yushi-Hu/VisualSketchpad)]
-
-* [**Prompt**] [2505] [VAT] [Visual Abstract Thinking Empowers Multimodal Reasoning](https://arxiv.org/abs/2502.17422) [[💻Code](https://github.com/THUNLP-MT/VAT)]
-
-* [**SFT**] [2403] [Visual COT] [Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning](https://arxiv.org/abs/2403.16999) [[🌐Project](https://hao-shao.com/projects/viscot.html)] [[💻Code](https://github.com/deepcs233/Visual-CoT)] [[🤗Models](https://huggingface.co/collections/deepcs233/viscot-65fe883e2a0cdd3c59fc5d63)] [[🤗Datasets](https://huggingface.co/datasets/deepcs233/Visual-CoT)]
-
-* [**SFT**] [2501] [MVoT] [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542) [[🌐Project](https://thegenerality.com/agi/)] [[💻Code](https://github.com/chengzu-li/MVoT)] [[🤗Models](https://huggingface.co/collections/deepcs233/viscot-65fe883e2a0cdd3c59fc5d63)] [[🤗Datasets](https://huggingface.co/datasets/deepcs233/Visual-CoT)]
-
-* [**SFT**] [2503] [CoT-VLA] [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2503.22020) [[🌐Project](https://cot-vla.github.io/)]
-
-* [**SFT**] [2505] [v1] [Don’t Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation](https://arxiv.org/pdf/2505.18842) [[💻Code](https://github.com/jun297/v1)] [[🤗Models](https://huggingface.co/kjunh/v1-7B)]
-
-* [**SFT**] [2505] [MathCoder-VL] [MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](https://arxiv.org/abs/2505.10557) [[💻Code](https://github.com/mathllm/MathCoder)] [[🤗Models](https://huggingface.co/collections/MathLLMs/mathcoder-vl-68263a5d0b71cac81b6568b4)] [[🤗Datasets](https://huggingface.co/datasets/MathLLM/MathCodeInstruct)]
-
-* [**SFT+RL**] [2505] [OpenThinkIMG] [OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/abs/2505.08617) [[💻Code](https://github.com/zhaochen0110/OpenThinkIMG)]
-
-* [**SFT+RL**] [2505] [Visual-ARFT] [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/pdf/2505.14246) [[💻Code](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)] [[🤗Models](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)] [[🤗Datasets](https://huggingface.co/datasets/laolao77/MAT)]
-
 * [**SFT+RL**] [2505] [CoF] [Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL](https://arxiv.org/pdf/2505.15436) [[🌐Project](https://cof-reasoning.github.io/)] [[💻Code](https://github.com/xtong-zhang/Chain-of-Focus)] [[🤗Models](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)] [[🤗Datasets](https://huggingface.co/datasets/laolao77/MAT)]
 
 * [**SFT+RL**] [2505] [Pixel Reasoner] [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966) [[🌐Project](https://tiger-ai-lab.github.io/Pixel-Reasoner/)] [[💻Code](https://github.com/TIGER-AI-Lab/Pixel-Reasoner)] [[🤗Models](https://huggingface.co/TIGER-Lab/PixelReasoner-RL-v1)] [[🤗Datasets](https://huggingface.co/collections/TIGER-Lab/pixel-reasoner-682fe96ea946d10dda60d24e)]
@@ -190,6 +164,32 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 * [**RL**] [2505] [Ground-R1] [Ground-R1: Incentivizing Grounded Visual Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.20272)
 
 * [**RL**] [2505] [GRIT] [GRIT: Teaching MLLMs to Think with Images](https://arxiv.org/pdf/2505.15436) [[🌐Project](https://grounded-reasoning.github.io/)] [[💻Code](https://github.com/eric-ai-lab/GRIT)] [[🤗Models](https://huggingface.co/yfan1997/GRIT-20-Qwen2.5-VL-3B)]
+
+* [**SFT+RL**] [2505] [Visual-ARFT] [Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/pdf/2505.14246) [[💻Code](https://github.com/Liuziyu77/Visual-RFT/tree/main/Visual-ARFT)] [[🤗Models](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)] [[🤗Datasets](https://huggingface.co/datasets/laolao77/MAT)]
+
+* [**Prompt**] [2505] [VAT] [Visual Abstract Thinking Empowers Multimodal Reasoning](https://arxiv.org/abs/2502.17422) [[💻Code](https://github.com/THUNLP-MT/VAT)]
+
+* [**SFT**] [2505] [MathCoder-VL] [MathCoder-VL: Bridging Vision and Code for Enhanced Multimodal Mathematical Reasoning](https://arxiv.org/abs/2505.10557) [[💻Code](https://github.com/mathllm/MathCoder)] [[🤗Models](https://huggingface.co/collections/MathLLMs/mathcoder-vl-68263a5d0b71cac81b6568b4)] [[🤗Datasets](https://huggingface.co/datasets/MathLLM/MathCodeInstruct)]
+
+* [**SFT**] [2505] [v1] [Don’t Look Only Once: Towards Multimodal Interactive Reasoning with Selective Visual Revisitation](https://arxiv.org/pdf/2505.18842) [[💻Code](https://github.com/jun297/v1)] [[🤗Models](https://huggingface.co/kjunh/v1-7B)]
+
+* [**SFT+RL**] [2505] [OpenThinkIMG] [OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/abs/2505.08617) [[💻Code](https://github.com/zhaochen0110/OpenThinkIMG)]
+
+* [**RL**] [2505] [DeepEyes] [DeepEyes: Incentivizing "Thinking with Images" via Reinforcement Learning](https://arxiv.org/abs/2505.14362) [[🌐Project](https://visual-agent.github.io/)]  [[🤗Models](https://huggingface.co/ChenShawn/DeepEyes-7B)]  [[🤗Datasets](https://huggingface.co/datasets/ChenShawn/DeepEyes-Datasets-47k)] [[💻Code](https://github.com/Visual-Agent/DeepEyes)]
+
+* [2504] [OpenAI o3] [Introducing OpenAI o3 and o4-mini](https://openai.com/index/introducing-o3-and-o4-mini/)
+
+* [**SFT**] [2503] [CoT-VLA] [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2503.22020) [[🌐Project](https://cot-vla.github.io/)]
+
+* [**SFT**] [2501] [MVoT] [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542) [[🌐Project](https://thegenerality.com/agi/)] [[💻Code](https://github.com/chengzu-li/MVoT)] [[🤗Models](https://huggingface.co/collections/deepcs233/viscot-65fe883e2a0cdd3c59fc5d63)] [[🤗Datasets](https://huggingface.co/datasets/deepcs233/Visual-CoT)]
+
+* [**SFT**] [2403] [Visual COT] [Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning](https://arxiv.org/abs/2403.16999) [[🌐Project](https://hao-shao.com/projects/viscot.html)] [[💻Code](https://github.com/deepcs233/Visual-CoT)] [[🤗Models](https://huggingface.co/collections/deepcs233/viscot-65fe883e2a0cdd3c59fc5d63)] [[🤗Datasets](https://huggingface.co/datasets/deepcs233/Visual-CoT)]
+
+* [**Prompt**] [2406] [Sketchpad] [Visual Sketchpad: Sketching as a Visual Chain of Thought for Multimodal Language Models](https://arxiv.org/abs/2406.09403) [[🌐Project](https://visualsketchpad.github.io)] [[💻Code](https://github.com/Yushi-Hu/VisualSketchpad)]
+
+* [**SFT**] [2312] [V\*] [V*: Guided Visual Search as a Core Mechanism in Multimodal LLMs](https://arxiv.org/abs/2312.14135) [[🌐Project](https://vstar-seal.github.io)] [[💻Code](https://github.com/penghao-wu/vstar)]
+
+* [**Prompt**] [2211] [VISPROG] [Visual Programming: Compositional visual reasoning without training](https://arxiv.org/abs/2211.11559) [[🌐Project](https://prior.allenai.org/projects/visprog)] [[💻Code](https://github.com/allenai/visprog)]
 
 
 ### Multi-Round Acting Interleaving Reasoning
@@ -261,7 +261,7 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 * [2503] [Zochi] [Zochi Technical Report](https://github.com/IntologyAI/Zochi/blob/main/Zochi_Technical_Report.pdf) [[🌐Project](https://www.intology.ai/blog/zochi-tech-report)] [[💻Code](https://github.com/IntologyAI/Zochi)]
 
-* [**Prompt**] [2309] [MetaGPT] [Agents: An Open-source Framework for Autonomous Language Agents](https://arxiv.org/abs/2309.07870) [[🌐Project](https://aiwaves-cn.github.io/agents/)] [[💻Code](https://github.com/aiwaves-cn/agents)]
+* [**Prompt**] [2309] [Agents] [Agents: An Open-source Framework for Autonomous Language Agents](https://arxiv.org/abs/2309.07870) [[🌐Project](https://aiwaves-cn.github.io/agents/)] [[💻Code](https://github.com/aiwaves-cn/agents)]
 
 * [**Prompt**] [2308] [AgentVerse] [AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors](https://arxiv.org/abs/2308.10848) [[💻Code](https://github.com/OpenBMB/AgentVerse)]
 
@@ -273,6 +273,8 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 > Definition: The model's reasoning capabilities are not confined to producing solely unimodal outputs. Instead, it strategically generates multimodal content (e.g., textual and visual elements) as an integral intermediate step within its intrinsic processes of comprehension and problem-solving. 
 
 #### Generation
+
+* [**SFT**] [2505] [TwGI-Anole] [Thinking with Generated Images](https://arxiv.org/abs/2505.22525) [[🤗Models](https://huggingface.co/GAIR/twgi-subgoal-anole-7b)] [[💻Code](https://github.com/GAIR-NLP/thinking-with-generated-images)]
 
 * [**Pretrain+SFT**] [2505] [BAGEL] [Emerging Properties in Unified Multimodal Pretraining](https://arxiv.org/abs/2505.14683) [[🌐Project](https://bagel-ai.org/)] [[🤗Models](https://huggingface.co/ByteDance-Seed/BAGEL-7B-MoT)] [[🤗Datasets](https://github.com/ByteDance-Seed/Bagel/blob/main/TRAIN.md#data-prepration)] [[💻Code](https://github.com/bytedance-seed/BAGEL)]
 

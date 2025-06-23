@@ -325,6 +325,8 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 * [**RL**] [2504] [ToolRL] [ToolRL: Reward is All Tool Learning Needs](https://arxiv.org/pdf/2504.13958) [[💻Code](https://github.com/qiancheng0/ToolRL)]  [[🤗Models](https://huggingface.co/collections/emrecanacikgoz/toolrl-680706679204ead5a6d44f58)] [[🤗Datasets](https://github.com/qiancheng0/ToolRL/tree/main/dataset)]
 
+* [**Prompt**] [2504] [DwT] [Draw with Thought: Unleashing Multimodal Reasoning for Scientific Diagram Generation](https://arxiv.org/abs/2504.09479)
+
 * [**RL**] [2503] [TORL] [TORL: Scaling Tool-Integrated RL](https://arxiv.org/abs/2409.07429) [[💻Code](https://github.com/GAIR-NLP/ToRL)] [[🤗Models](https://huggingface.co/GAIR/ToRL-7B)] [[🤗Datasets](https://github.com/GAIR-NLP/ToRL/tree/main/data/torl_data)]
 
 * [**Prompt**] [2409] [AWM] [Agent Workflow Memory](https://arxiv.org/abs/2409.07429) [[🌐Project](https://visual-agent.github.io/)] [[💻Code](https://github.com/zorazrw/agent-workflow-memory)]
@@ -344,7 +346,7 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 * [**Prompt**] [2502] [S2-MAD] [S2-MAD: Breaking the Token Barrier to Enhance Multi-Agent Debate Efficiency](https://arxiv.org/pdf/2502.04790) 
 
-* [**Empirical**] [2502] [-] [If Multi-Agent Debate is the Answer, What is the Question?](https://arxiv.org/pdf/2502.08788) 
+* [**Position paper**] [2502] [-] [If Multi-Agent Debate is the Answer, What is the Question?](https://arxiv.org/pdf/2502.08788) 
 
 * [**RL**] [2411] [ACC-Collab] [ACC-Collab: An Actor-Critic Approach to Multi-Agent LLM Collaboration](https://arxiv.org/abs/2411.00053) [[💻Code](https://github.com/LlenRotse/ACC-Collab)]
 
@@ -376,7 +378,7 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 * [**Prompt**] [2406] [Croto] [Multi-Agent Collaboration via Cross-Team Orchestration ](https://arxiv.org/pdf/2406.08979) [[💻Code](https://github.com/OpenBMB/ChatDev/tree/macnet)]
 
-* [**Framework**] [2402] [AgentScope] [AgentScope: A Flexible yet Robust Multi-Agent Platform ](https://arxiv.org/pdf/2402.14034) [[💻Code](https://github.com/modelscope/agentscope)]
+* [**Prompt**] [2402] [AgentScope] [AgentScope: A Flexible yet Robust Multi-Agent Platform ](https://arxiv.org/pdf/2402.14034) [[💻Code](https://github.com/modelscope/agentscope)]
 
 * [**Prompt**] [2312] [Co-Learning] [Experiential Co-Learning of Software-Developing Agents](https://arxiv.org/pdf/2312.17025) [[💻Code](https://github.com/OpenBMB/ChatDev)]
 
@@ -398,7 +400,15 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 #### Generation
 
+* [**SFT+RL**] [2506] [ControlThinker] [ControlThinker: Unveiling Latent Semantics for Controllable Image Generation through Visual Reasoning](https://arxiv.org/abs/2506.03596) [[💻Code](https://github.com/Maplebb/ControlThinker)]
 
+* [**SFT+RL**] [2505] [MindOmni] [MindOmni: Unleashing Reasoning Generation in Vision Language Models with RGPO](https://arxiv.org/abs/2505.13031) [[🤗Models](https://huggingface.co/EasonXiao-888/MindOmni)] [[💻Code](https://github.com/TencentARC/MindOmni)]
+
+* [**SFT+RL**] [2505] [GoT-R1] [GoT-R1: Unleashing Reasoning Capability of MLLM for Visual Generation with Reinforcement Learning](https://arxiv.org/abs/2505.17022) [[🤗Models](https://huggingface.co/gogoduan/GoT-R1-7B)] [[💻Code](https://github.com/gogoduan/GoT-R1)]
+
+* [**Prompt**] [2505] [ComfyMind] [ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback](https://arxiv.org/abs/2505.17908) [[💻Code](https://github.com/LitaoGuo/ComfyMind)]
+
+* [**Pretrain+SFT+RL**] [2505] [UniGen] [UniGen: Enhanced Training & Test-Time Strategies for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2505.14682)
 
 * [**SFT**] [2505] [TwGI-Anole] [Thinking with Generated Images](https://arxiv.org/abs/2505.22525) [[🤗Models](https://huggingface.co/GAIR/twgi-subgoal-anole-7b)] [[💻Code](https://github.com/GAIR-NLP/thinking-with-generated-images)]
 

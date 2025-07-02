@@ -151,7 +151,14 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 > Definition: The model's inference process operates on diverse information modalities (e.g., textual, visual, auditory, video). This involves an intricately interleaved execution of modality-specific information processing and cross-modal reasoning.
 
-* [**SFT+RL**] [2505] [CoF] [Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL](https://arxiv.org/pdf/2505.15436) [[🌐Project](https://cof-reasoning.github.io/)] [[💻Code](https://github.com/xtong-zhang/Chain-of-Focus)] [[🤗Models](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)] [[🤗Datasets](https://huggingface.co/datasets/laolao77/MAT)]
+
+* [**SFT**] [2506] [VGR] [VGR: Visual Grounded Reasoning](https://arxiv.org/abs/2506.11991)
+
+* [**Position paper**] [2505] [Visual Thoughts: A Unified Perspective of Understanding Multimodal Chain-of-Thought](https://arxiv.org/abs/2505.15510) 
+
+* [**SFT**] [2505] [ARGUS] [ARGUS: Vision-Centric Reasoning with Grounded Chain-of-Thought](https://arxiv.org/abs/2505.23766) [[🌐Project](https://yunzeman.github.io/argus/] 
+
+* [**SFT+RL**] [2505] [CoF] [Chain-of-Focus: Adaptive Visual Search and Zooming for Multimodal Reasoning via RL](https://arxiv.org/abs/2505.15436) [[🌐Project](https://cof-reasoning.github.io/)] [[💻Code](https://github.com/xtong-zhang/Chain-of-Focus)] [[🤗Models](https://huggingface.co/collections/laolao77/visual-arft-682c601d0e35ac6470adfe9f)] [[🤗Datasets](https://huggingface.co/datasets/laolao77/MAT)]
 
 * [**SFT+RL**] [2505] [Pixel Reasoner] [Pixel Reasoner: Incentivizing Pixel-Space Reasoning with Curiosity-Driven Reinforcement Learning](https://arxiv.org/abs/2505.15966) [[🌐Project](https://tiger-ai-lab.github.io/Pixel-Reasoner/)] [[💻Code](https://github.com/TIGER-AI-Lab/Pixel-Reasoner)] [[🤗Models](https://huggingface.co/TIGER-Lab/PixelReasoner-RL-v1)] [[🤗Datasets](https://huggingface.co/collections/TIGER-Lab/pixel-reasoner-682fe96ea946d10dda60d24e)]
 
@@ -182,6 +189,8 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 * [**SFT**] [2503] [CoT-VLA] [CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models](https://arxiv.org/abs/2503.22020) [[🌐Project](https://cot-vla.github.io/)]
 
 * [**SFT**] [2501] [MVoT] [Imagine while Reasoning in Space: Multimodal Visualization-of-Thought](https://arxiv.org/pdf/2501.07542) [[🌐Project](https://thegenerality.com/agi/)] [[💻Code](https://github.com/chengzu-li/MVoT)] [[🤗Models](https://huggingface.co/collections/deepcs233/viscot-65fe883e2a0cdd3c59fc5d63)] [[🤗Datasets](https://huggingface.co/datasets/deepcs233/Visual-CoT)]
+
+* [**SFT**] [2501] [ReFocus] [ReFocus: Visual Editing as a Chain of Thought for Structured Image Understanding](https://arxiv.org/abs/2501.05452) [[🌐Project](https://zeyofu.github.io/ReFocus/)] [[💻Code](https://github.com/zeyofu/ReFocus_Code)] [[🤗Models](https://huggingface.co/Fiaa/ReFocus)] [[🤗Datasets](https://github.com/zeyofu/ReFocus_Code?tab=readme-ov-file#download-training-data)]
 
 * [**SFT**] [2403] [Visual COT] [Visual CoT: Advancing Multi-Modal Language Models with a Comprehensive Dataset and Benchmark for Chain-of-Thought Reasoning](https://arxiv.org/abs/2403.16999) [[🌐Project](https://hao-shao.com/projects/viscot.html)] [[💻Code](https://github.com/deepcs233/Visual-CoT)] [[🤗Models](https://huggingface.co/collections/deepcs233/viscot-65fe883e2a0cdd3c59fc5d63)] [[🤗Datasets](https://huggingface.co/datasets/deepcs233/Visual-CoT)]
 

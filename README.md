@@ -94,6 +94,17 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 
 ## Our Activities
+
+---
+
+🔥🔥🔥 **Interleaving Reasoning Generation**  
+<p align="center">
+    <img src="./images/IRG.png" width="80%">
+</p>
+<font size=7><div align='center' > [[📖 arXiv Paper](https://arxiv.org/abs/2509.06945)] [[🌟 GitHub](https://github.com/Osilly/Interleaving-Reasoning-Generation)![Star](https://img.shields.io/github/stars/Osilly/Interleaving-Reasoning-Generation.svg?style=social&label=Star)] </div></font>  
+
+<font size=7><div align='center' > This is the first paper to **introduce Interleaving Reasoning to Text-to-image Generation field** and achieve the SoTA benchmark performance. It also significantly improves the quality, fine-grained details and aesthetic aspects of generated images..  </div></font>
+
 ---
 
 🔥🔥🔥 **ICCV 2025 Workshop on Multi-Modal Reasoning for Agentic Intelligence (MMRAgi-2025)**  

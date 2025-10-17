@@ -116,6 +116,17 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 <font size=7><div align='center' >We organised **[ICCV 2025 Workshop MMRAgi](https://agent-intelligence.github.io/agent-intelligence)**! <br> Submission DDL: Proceeding Track: 24 June 2025, 23:59 AoE, Non-Proceeding Track: 24 July 2025, 23:59 AoE.  </div></font>
 
+---
+
+🔥🔥🔥 **Learning Only with Images: Visual Reinforcement Learning with Reasoning, Rendering, and Visual Feedback**  
+<p align="center">
+    <img src="./images/rrvf.png" width="80%">
+</p>
+
+<font size=7><div align='center' > [[📖 arXiv Paper](https://arxiv.org/abs/2507.20766)] [[🌟 GitHub](https://github.com/L-O-I/RRVF)![Star](https://img.shields.io/github/stars/L-O-I/RRVF.svg?style=social&label=Star)] [[🤗 RRVF-chart-cold Dataset](https://huggingface.co/datasets/syficy/rrvf_coldstart_chartqa)] [[🤗RRVF_Chart](https://huggingface.co/chenzju/rrvf_chartmimic/tree/master)]</div></font>  
+
+<font size=7><div align='center' > This work introduces RRVF, a multi-round interleaving reasoning framework enabling MLLMs to iteratively self-correct. It uses a closed-loop of reasoning, rendering, and visual feedback, optimized via reinforcement learning, to achieve superior performance on complex image-to-code generation tasks.
+</div></font>
 
 ---
 

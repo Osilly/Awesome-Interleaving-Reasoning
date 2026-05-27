@@ -350,6 +350,8 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 #### Complex acting
 
+* [**RL**] [2505] [Think-Answer] [Interleaved Reasoning for Large Language Models via Reinforcement Learning](https://arxiv.org/abs/2505.19640)
+
 * [**RL**] [2505] [GiGPO] [Group-in-Group Policy Optimization for LLM Agent Training](https://arxiv.org/abs/2505.10978) [[💻Code](https://github.com/langfengQ/verl-agent)]
 
 * [**RL**] [2505] [ToolN1] [Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning](https://arxiv.org/pdf/2505.00024) [[💻Code](https://github.com/NVlabs/Tool-N1)]

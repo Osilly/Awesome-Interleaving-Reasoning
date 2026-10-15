@@ -174,6 +174,8 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 > Definition: The model's inference process operates on diverse information modalities (e.g., textual, visual, auditory, video). This involves an intricately interleaved execution of modality-specific information processing and cross-modal reasoning.
 
+* [**SFT+RL**] [2601] [Video-o3] [Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning](https://arxiv.org/abs/2601.23224) [[💻Code](https://github.com/MCG-NJU/Video-o3)]
+
 * [**SFT+RL**] [2508] [VITAL] [Thinking With Videos: Multimodal Tool-Augmented RL for Long Video Reasoning](https://arxiv.org/abs/2508.04416) [[🌐Project](https://zhang9302002.github.io/thinkingwithvideos-page/)] [[💻Code](https://github.com/zhang9302002/ThinkingWithVideos)] [[🤗Datasets](https://huggingface.co/datasets/zhang9302002/MultiTaskVideoReasoning)] 
 
 * [**SFT**] [2506] [VGR] [VGR: Visual Grounded Reasoning](https://arxiv.org/abs/2506.11991)

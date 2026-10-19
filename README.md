@@ -457,6 +457,8 @@ We aim to provide the community with a comprehensive and timely synthesis of thi
 
 #### Understanding
 
+* [**Prompt**] [2609] [ReImaGin] [Reasoning with Image Generation](https://arxiv.org/abs/2609.16409) [[🌐Project](https://hector.gr/reimagin/)]
+
 ## Awesome Datasets
 
 
